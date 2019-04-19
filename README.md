@@ -2,7 +2,9 @@
 
 ![Pad Notes Logo](https://github.com/dagreatbrendino/project-2/blob/master/public/img/rsz_notepad.png)
 
-## GitHub repo: https://github.com/dagreatbrendino/project-2 
+## Deployed Heroku App: https://pad-notes.herokuapp.com/
+
+## Original GitHub repo: https://github.com/dagreatbrendino/project-2 
 
 ## Project Presentation: https://docs.google.com/presentation/d/1Sb9RW8YGaJCQUBfqi1VVnM4162s-7N7A16d__LruXMY/edit?usp=sharing
 
